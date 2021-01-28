@@ -1,0 +1,23 @@
+{
+    "name": "marmot/marmot-smoke",
+    "description": "marmot project smoke test tool",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chloroplast",
+            "email": "dingkebin@qixinyun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "bin": [
+        "marmot-smoke"
+    ],
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
